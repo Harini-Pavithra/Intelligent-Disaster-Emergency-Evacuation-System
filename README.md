@@ -39,5 +39,21 @@ Sensors such as smoke detectors, flame detectors, heat detectors, vibration sens
 
 A flame detector sensor is a sensor designed to detect and respond to the presence of a flame or fire, allowing flame detection. When used in industrial furnace applications, their role is to confirm that the furnace is properly; in these cases, they take no direct action beyond notifying the operator or control system. A flame detector can often respond faster and more accurately than a smoke or heat detector. Due to its mechanisms, it uses to detect the flame. 
 
+### Gas Leakage Sensors
 
- 
+A gas detector sensor is a device that detects the presence of gases in an area, often as part of a safety system. This type of equipment will detect a gas leak or other emissions and can interface with a control system to shut it down automatically.
+
+### Portable gas detector
+A gas detector can alarm operators in the area where the leak is occurring, allowing them to leave. This device is important because many gases can be harmful to organic life, such as humans or animals.
+
+### Vibration Sensors
+
+The vibration sensor buffers a piezoelectric transducer. As it displaces the transducer from the mechanical neutral axis, bending creates strain within the piezoelectric element and generates voltages. 
+
+Designed the Vibration Sensor Detector for the security practice, when the Vibration Sensor Alarm recognizes movement or vibration, it signals either control panel. Developed a new type of Omni-directional high sensitivity Security Vibration Detector with Omni-directional detection 
+
+### Module Description
+
+After connecting the sensors to the Arduino UNO board for the detection of disasters, if the activated sensor is detected, will send an alert message to the evacuees in that place or building through our application. Already fed a map in our application for providing short routes to come out of that place and to save their life. Also, we use guide lights and autonomous cars to get out the evacuees earlier and taking efforts to prevent the maximum number of people from that danger.
+
+### Screenshots
