@@ -57,3 +57,5 @@ Designed the Vibration Sensor Detector for the security practice, when the Vibra
 After connecting the sensors to the Arduino UNO board for the detection of disasters, if the activated sensor is detected, will send an alert message to the evacuees in that place or building through our application. Already fed a map in our application for providing short routes to come out of that place and to save their life. Also, we use guide lights and autonomous cars to get out the evacuees earlier and taking efforts to prevent the maximum number of people from that danger.
 
 ### Screenshots
+
+![IMG_20220605_144622](https://github.com/Harini-Pavithra/Intelligent-Disaster-Emergency-Evacuation-System/blob/main/IMG_20220605_144622.jpg)
